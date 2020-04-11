@@ -1,0 +1,23 @@
+{
+	"private": true,
+	"name": "delfi-gtfs-url",
+	"description": "A stable URL for the latest DELFI GTFS dataset.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/delfi-gtfs-url",
+	"repository": "derhuerst/delfi-gtfs-url",
+	"bugs": "https://github.com/derhuerst/delfi-gtfs-url/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=10"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"now": "^17.1.1"
+	},
+	"scripts": {
+		"build": "echo no build"
+	}
+}
