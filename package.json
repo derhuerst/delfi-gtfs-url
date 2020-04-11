@@ -13,11 +13,11 @@
 		"node": ">=10"
 	},
 	"dependencies": {
+		"cors": "^2.8.5",
+		"luxon": "^1.23.0",
+		"node-fetch": "^2.6.0"
 	},
 	"devDependencies": {
 		"now": "^17.1.1"
-	},
-	"scripts": {
-		"build": "echo no build"
 	}
 }
